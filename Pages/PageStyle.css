@@ -132,7 +132,7 @@ html, body{
 .video-container iframe {
     width: 45%;
     height: 350px;
-    width: 500px;
+    width: 550px;
     margin: 10px;
 }
 @media (max-width: 768px) {

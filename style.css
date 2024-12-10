@@ -234,7 +234,7 @@ section .title::after{
 }
 
 .portfolio {
-    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.3)), url(images/header1.jpeg) no-repeat center;
+    background: linear-gradient(rgba(34, 34, 34, 0.5), rgba(34, 34, 34, 0.3)), url(images/sky.jpg) no-repeat center;
     background-size: cover;
     background-position: center;
 }
